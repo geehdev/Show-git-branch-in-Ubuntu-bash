@@ -48,13 +48,13 @@ export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\[\033
 
 *Get new digits here >>* [**Bash-Colors**](https://gist.github.com/JBlond/2fea43a3049b38287e5e9cefc87b2124)
 
-
 *To finish, save your file with the modifications above, check it in your shell, use the "cd" command to navigate to a git repository, branches normally only appear after the first commit. Make a commit and your branch name should appear in your shell.*
+
+![screenshot](https://github.com/genilsonbick/genilsonbick-Show-git-branch-in-Ubuntu-bash/assets/104036619/6f32e648-a907-477e-be57-8d58575d1fd1)
+
 
 
 **END OF TUTORIAL!** 🥳 \ *Below you will see a second way to do the same process.*
-
-
 
 > **STEP 02** (Advanced Mode) 🌵
 *Here we will use nano, it is a simple text editor via shell, that is, we will do STEP 03 without leaving the shell.*
